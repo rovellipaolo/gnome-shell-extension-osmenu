@@ -1,7 +1,7 @@
 {
     "uuid": "osmenu@rovellipaolo-gmail.com",
     "name": "OS Menu",
-    "description": "OS Menu: a useless but fancy menu showing the operating system info",
+    "description": "OS Menu: a useless but fancy GNOME Shell extension showing a logo in the system status bar",
     "url": "https://github.com/rovellipaolo/gnome-shell-extension-osmenu",
     "settings-schema": "org.gnome.shell.extensions.osmenu",
     "shell-version": [
