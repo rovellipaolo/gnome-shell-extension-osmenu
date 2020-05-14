@@ -42,7 +42,7 @@ $ make disable
 
 ## Configuring
 
-To customize and change the menu icon, just replace the `icon.svg` file with the one of your choice.
+To customize and change the logo, just replace the `icon.svg` file with the one of your choice.
 
 The included icon was created by _Aha-Soft_ and published under the _Creative Commons (Attribution 3.0 Unported)_ terms: https://www.iconfinder.com/icons/401276/gnome_icon
 
