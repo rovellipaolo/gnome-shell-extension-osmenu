@@ -1,6 +1,10 @@
 # OS Menu
 
-A useless but fancy GNOME Shell extension showing the operating system info.
+A useless but fancy GNOME Shell extension showing a logo in the system status bar.
+
+![Menu](docs/osmenu.png "Screenshot of OS Menu")
+
+ When clicked the system "About" page will be opened.
 
 
 ## Building and Installing
@@ -39,7 +43,9 @@ $ make disable
 ## Configuring
 
 To customize and change the menu icon, just replace the `icon.svg` file with the one of your choice.
+
 The included icon was created by _Aha-Soft_ and published under the _Creative Commons (Attribution 3.0 Unported)_ terms: https://www.iconfinder.com/icons/401276/gnome_icon
+
 There you can find also distro-specific icons, such as:
 * CentOS: https://www.iconfinder.com/icons/401265/centos_icon
 * Debian: https://www.iconfinder.com/icons/401270/debian_icon

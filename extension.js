@@ -22,7 +22,7 @@ var MenuView = GObject.registerClass(
         addIcon() {
             const icon = new St.Icon({
                 gicon: Gio.icon_new_for_string(`${Me.path}/icon.svg`),
-                icon_size: 14
+                icon_size: 16
             });
             this.actor.add_actor(icon);
         }
